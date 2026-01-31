@@ -1,2 +1,2 @@
 # audiocontrol
-windows App audio control using shortcut
+App audio control mute/reduce by shortcut for Windows. Using Python
